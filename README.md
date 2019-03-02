@@ -1,3 +1,4 @@
-HTML + CSS Project
-No JavaScript
-Work in progress
+# HTML + CSS Project
+
+* No JavaScript
+* Work in progress...
