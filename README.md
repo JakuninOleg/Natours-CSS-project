@@ -1,4 +1,4 @@
 # HTML + CSS Project
 
-* No JavaScript
-* Work in progress...
+* No JavaScript added
+* Working version - https://natours-css-project.netlify.com/
